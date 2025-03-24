@@ -1,0 +1,601 @@
+Timestamp,Username,Gender,Shoe #,Please rate the following shoe based on your preference.,How comfortable does the shoe appear?,"Out of the features mentioned, which is the most important to you while buying a pair of shoes?",The shoe is priced in the range of $80-$100. How likely are you to consider purchasing it?,Treatment
+2024/02/27 6:08:48 PM EST,isheeta29anand@gmail.com,Female,1.0,4,4,Style Versatility,3,Yes
+2024/02/27 6:18:38 PM EST,ankurbhardwaj87@gmail.com,Male,1.0,5,5,Durability,4,Yes
+2024/02/27 6:20:52 PM EST,parthav.shah@utdallas.edu,Male,1.0,2,2,Style Versatility,3,Yes
+2024/02/27 6:32:16 PM EST,monicagrover13@me.com,Female,1.0,2,4,Breathability,2,Yes
+2024/02/27 6:43:49 PM EST,udaygarg1998@gmail.com,Female,1.0,2,3,Durability,1,Yes
+2024/02/27 6:46:39 PM EST,deepsundar1995@gmail.com,Male,1.0,2,3,Style Versatility,3,Yes
+2024/02/27 6:57:42 PM EST,fnupunyaplaban@gmail.com,Male,1.0,4,4,Breathability,3,Yes
+2024/02/27 8:26:16 PM EST,deepasinghdamodar@gmail.com,Female,1.0,2,4,Material,1,Yes
+2024/02/27 8:56:06 PM EST,mohitbagdwal008@gmail.com,Male,1.0,3,4,Material,3,Yes
+2024/02/27 8:57:13 PM EST,workaholicsush@gmail.com,Female,1.0,1,3,Style Versatility,3,Yes
+2024/02/27 8:58:34 PM EST,nehan.1991@gmail.com,Female,1.0,3,3,Breathability,2,Yes
+2024/02/27 9:00:26 PM EST,achsah.paul@gmail.com,Female,1.0,4,4,Traction and Grip,4,Yes
+2024/02/27 9:22:06 PM EST,sharma.cruise007@gmail.com,Male,1.0,3,4,Breathability,3,Yes
+2024/02/27 9:29:32 PM EST,riyansh2420@gmail.com,Male,1.0,2,2,Style Versatility,4,Yes
+2024/02/27 9:52:04 PM EST,garima.sharma0516@gmail.com,Female,1.0,3,4,Breathability,2,Yes
+2024/02/27 10:00:46 PM EST,ramya.doll89@gmail.com,Female,1.0,4,5,Breathability,3,Yes
+2024/02/27 10:03:23 PM EST,mrinalmj@outlook.com,Male,1.0,4,4,Breathability,2,Yes
+2024/02/27 10:03:30 PM EST,meghabharti2020@gmail.com,Female,1.0,4,5,Breathability,3,Yes
+2024/02/27 10:13:11 PM EST,dtyagi20@iisertvm.ac.in,Female,1.0,5,5,Breathability,3,Yes
+2024/02/27 10:18:51 PM EST,roza07861@gmail.com,Female,1.0,2,5,Durability,3,Yes
+2024/02/27 10:33:07 PM EST,singhsonam2128@gmail.com,Female,1.0,4,4,Material,3,Yes
+2024/02/27 11:31:54 PM EST,sharma95828@gmail.com,Female,1.0,3,5,Material,4,Yes
+2024/02/28 12:38:56 AM EST,archanavakiti@gmail.com,Female,1.0,5,5,Durability,5,Yes
+2024/02/28 3:44:06 AM EST,BHUYANSURABHI210@GMAIL.COM,Female,1.0,4,5,Breathability,4,Yes
+2024/02/28 3:48:08 AM EST,ayushmoharana24@gmail.com,Male,1.0,3,4,Breathability,2,Yes
+2024/02/28 3:50:17 AM EST,srinibash.dav@gmail.com,Male,1.0,2,3,Durability,4,Yes
+2024/02/28 3:52:11 AM EST,PRIYANSHI.SINGH06@GMAIL.COM,Female,1.0,5,5,Breathability,3,Yes
+2024/02/28 3:54:39 AM EST,preeti.pratikshya51@gmail.com,Female,1.0,3,4,Material,2,Yes
+2024/02/28 3:56:14 AM EST,shibaishappy@gmail.com,Male,1.0,1,2,Material,2,Yes
+2024/02/28 4:08:06 AM EST,dmmelkani27@gmail.com,Female,1.0,1,3,Durability,1,Yes
+2024/02/28 5:47:41 AM EST,bose.snigdha08@gmail.com,Female,1.0,3,2,Breathability,3,Yes
+2024/02/28 7:00:52 AM EST,prabhatskushwaha@gmail.com,Male,1.0,2,3,Traction and Grip,2,Yes
+2024/02/28 7:06:17 AM EST,rahulvignesh1994@gmail.com,Male,1.0,4,4,Durability,4,Yes
+2024/02/28 7:21:19 AM EST,subhabrata37@gmail.com,Male,1.0,3,4,Traction and Grip,2,Yes
+2024/02/28 7:40:11 AM EST,karthickj93@gmail.com,Male,1.0,5,5,Style Versatility,4,Yes
+2024/02/28 7:40:40 AM EST,takichittu@gmail.com,Female,1.0,3,3,Material,2,Yes
+2024/02/28 7:41:35 AM EST,anamikaraj2408@gmail.com,Female,1.0,4,4,Traction and Grip,4,Yes
+2024/02/28 7:58:56 AM EST,nithish31032002@gmail.com,Male,1.0,4,4,Material,3,Yes
+2024/02/28 8:00:42 AM EST,balasurya2899@gmail.com,Male,1.0,3,3,Durability,3,Yes
+2024/02/28 8:12:17 PM EST,ananya5@bu.edu,Female,1.0,2,4,Durability,2,Yes
+2024/02/28 8:22:21 PM EST,atharva7@bu.edu,Male,1.0,4,3,Style Versatility,1,Yes
+2024/02/28 8:22:23 PM EST,hnchan@bu.edu,Female,1.0,3,4,Style Versatility,2,Yes
+2024/02/28 8:30:25 PM EST,tvkabi22@gmail.com,Female,1.0,3,4,Traction and Grip,2,Yes
+2024/02/28 8:34:37 PM EST,arauthan@bu.edu,Male,1.0,4,3,Style Versatility,5,Yes
+2024/02/28 8:37:10 PM EST,dylanjk@bu.edu,Male,1.0,4,5,Style Versatility,2,Yes
+2024/02/28 8:44:37 PM EST,chjain@bu.edu,Female,1.0,3,3,Durability,1,Yes
+2024/02/28 8:45:33 PM EST,gaurangi@bu.edu,Female,1.0,1,3,Traction and Grip,1,Yes
+2024/02/28 8:47:04 PM EST,drohit@bu.edu,Male,1.0,4,4,Style Versatility,3,Yes
+2024/02/28 8:58:56 PM EST,askmegha@bu.edu,Female,1.0,2,3,Material,1,Yes
+2024/02/28 9:06:23 PM EST,prdpmn@gmail.com,Male,1.0,4,5,Style Versatility,4,Yes
+2024/02/28 9:06:30 PM EST,jishnum@bu.edu,Male,1.0,2,3,Style Versatility,3,Yes
+2024/02/28 9:29:18 PM EST,soumyapratap97@gmail.com,Female,1.0,5,4,Durability,3,Yes
+2024/02/28 9:36:38 PM EST,dreyer23@bu.edu,Female,1.0,3,4,Style Versatility,1,Yes
+2024/02/28 9:48:05 PM EST,khushi15@bu.edu,Female,1.0,3,3,Style Versatility,2,Yes
+2024/02/28 11:10:40 PM EST,mahishag@gmail.com,Female,1.0,3,3,Durability,1,Yes
+2024/02/29 1:01:48 AM EST,hhimani3@bu.edu,Female,1.0,3,4,Material,3,Yes
+2024/02/29 1:20:38 AM EST,li888@bu.edu,Male,1.0,1,1,Durability,1,Yes
+2024/02/29 9:17:37 AM EST,aniketsantoshwar95@gmail.com,Male,1.0,4,4,Style Versatility,2,Yes
+2024/02/29 10:53:44 AM EST,blajb@bu.edu,Female,1.0,1,1,Style Versatility,1,Yes
+2024/02/29 2:56:48 PM EST,loreleil@bu.edu,Female,1.0,3,4,Style Versatility,2,Yes
+2024/02/27 6:08:48 PM EST,isheeta29anand@gmail.com,Female,2.0,5,4,Style Versatility,3,Yes
+2024/02/27 6:18:38 PM EST,ankurbhardwaj87@gmail.com,Male,2.0,4,4,Durability,4,Yes
+2024/02/27 6:20:52 PM EST,parthav.shah@utdallas.edu,Male,2.0,2,2,Style Versatility,1,Yes
+2024/02/27 6:32:16 PM EST,monicagrover13@me.com,Female,2.0,1,3,Breathability,1,Yes
+2024/02/27 6:43:49 PM EST,udaygarg1998@gmail.com,Female,2.0,3,3,Durability,2,Yes
+2024/02/27 6:46:39 PM EST,deepsundar1995@gmail.com,Male,2.0,1,3,Material,1,Yes
+2024/02/27 6:57:42 PM EST,fnupunyaplaban@gmail.com,Male,2.0,3,3,Material,3,Yes
+2024/02/27 8:26:16 PM EST,deepasinghdamodar@gmail.com,Female,2.0,4,4,Material,3,Yes
+2024/02/27 8:56:06 PM EST,mohitbagdwal008@gmail.com,Male,2.0,1,3,Material,1,Yes
+2024/02/27 8:57:13 PM EST,workaholicsush@gmail.com,Female,2.0,5,5,Style Versatility,5,Yes
+2024/02/27 8:58:34 PM EST,nehan.1991@gmail.com,Female,2.0,2,2,Breathability,1,Yes
+2024/02/27 9:00:26 PM EST,achsah.paul@gmail.com,Female,2.0,2,3,Traction and Grip,3,Yes
+2024/02/27 9:22:06 PM EST,sharma.cruise007@gmail.com,Male,2.0,4,4,Breathability,5,Yes
+2024/02/27 9:29:32 PM EST,riyansh2420@gmail.com,Male,2.0,3,4,Breathability,4,Yes
+2024/02/27 9:52:04 PM EST,garima.sharma0516@gmail.com,Female,2.0,2,2,Material,1,Yes
+2024/02/27 10:00:46 PM EST,ramya.doll89@gmail.com,Female,2.0,3,2,Traction and Grip,2,Yes
+2024/02/27 10:03:23 PM EST,mrinalmj@outlook.com,Male,2.0,2,4,Breathability,1,Yes
+2024/02/27 10:03:30 PM EST,meghabharti2020@gmail.com,Female,2.0,4,5,Breathability,4,Yes
+2024/02/27 10:13:11 PM EST,dtyagi20@iisertvm.ac.in,Female,2.0,4,4,Breathability,3,Yes
+2024/02/27 10:18:51 PM EST,roza07861@gmail.com,Female,2.0,1,4,Style Versatility,1,Yes
+2024/02/27 10:33:07 PM EST,singhsonam2128@gmail.com,Female,2.0,4,4,Durability,3,Yes
+2024/02/27 11:31:54 PM EST,sharma95828@gmail.com,Female,2.0,5,5,Breathability,4,Yes
+2024/02/28 12:38:56 AM EST,archanavakiti@gmail.com,Female,2.0,5,5,Traction and Grip,5,Yes
+2024/02/28 3:44:06 AM EST,BHUYANSURABHI210@GMAIL.COM,Female,2.0,1,1,Breathability,1,Yes
+2024/02/28 3:48:08 AM EST,ayushmoharana24@gmail.com,Male,2.0,1,1,Breathability,1,Yes
+2024/02/28 3:50:17 AM EST,srinibash.dav@gmail.com,Male,2.0,3,3,Durability,3,Yes
+2024/02/28 3:52:11 AM EST,PRIYANSHI.SINGH06@GMAIL.COM,Female,2.0,5,3,Traction and Grip,3,Yes
+2024/02/28 3:54:39 AM EST,preeti.pratikshya51@gmail.com,Female,2.0,3,3,Material,2,Yes
+2024/02/28 3:56:14 AM EST,shibaishappy@gmail.com,Male,2.0,2,3,Durability,2,Yes
+2024/02/28 4:08:06 AM EST,dmmelkani27@gmail.com,Female,2.0,4,2,Durability,2,Yes
+2024/02/28 5:47:41 AM EST,bose.snigdha08@gmail.com,Female,2.0,2,2,Breathability,2,Yes
+2024/02/28 7:00:52 AM EST,prabhatskushwaha@gmail.com,Male,2.0,1,2,Traction and Grip,2,Yes
+2024/02/28 7:06:17 AM EST,rahulvignesh1994@gmail.com,Male,2.0,4,3,Material,3,Yes
+2024/02/28 7:21:19 AM EST,subhabrata37@gmail.com,Male,2.0,4,4,Durability,3,Yes
+2024/02/28 7:40:11 AM EST,karthickj93@gmail.com,Male,2.0,4,4,Material,2,Yes
+2024/02/28 7:40:40 AM EST,takichittu@gmail.com,Female,2.0,4,3,Material,4,Yes
+2024/02/28 7:41:35 AM EST,anamikaraj2408@gmail.com,Female,2.0,4,4,Material,3,Yes
+2024/02/28 7:58:56 AM EST,nithish31032002@gmail.com,Male,2.0,1,3,Traction and Grip,3,Yes
+2024/02/28 8:00:42 AM EST,balasurya2899@gmail.com,Male,2.0,5,5,Style Versatility,5,Yes
+2024/02/28 8:12:17 PM EST,ananya5@bu.edu,Female,2.0,1,1,Material,1,Yes
+2024/02/28 8:22:21 PM EST,atharva7@bu.edu,Male,2.0,4,4,Material,3,Yes
+2024/02/28 8:22:23 PM EST,hnchan@bu.edu,Female,2.0,2,2,Style Versatility,1,Yes
+2024/02/28 8:30:25 PM EST,tvkabi22@gmail.com,Female,2.0,5,3,Traction and Grip,4,Yes
+2024/02/28 8:34:37 PM EST,arauthan@bu.edu,Male,2.0,2,3,Style Versatility,3,Yes
+2024/02/28 8:37:10 PM EST,dylanjk@bu.edu,Male,2.0,3,4,Style Versatility,1,Yes
+2024/02/28 8:44:37 PM EST,chjain@bu.edu,Female,2.0,1,1,Style Versatility,1,Yes
+2024/02/28 8:45:33 PM EST,gaurangi@bu.edu,Female,2.0,3,4,Traction and Grip,4,Yes
+2024/02/28 8:47:04 PM EST,drohit@bu.edu,Male,2.0,3,3,Material,2,Yes
+2024/02/28 8:58:56 PM EST,askmegha@bu.edu,Female,2.0,3,3,Material,1,Yes
+2024/02/28 9:06:23 PM EST,prdpmn@gmail.com,Male,2.0,1,2,Style Versatility,1,Yes
+2024/02/28 9:06:30 PM EST,jishnum@bu.edu,Male,2.0,2,2,Style Versatility,1,Yes
+2024/02/28 9:29:18 PM EST,soumyapratap97@gmail.com,Female,2.0,2,3,Material,1,Yes
+2024/02/28 9:36:38 PM EST,dreyer23@bu.edu,Female,2.0,1,3,Style Versatility,1,Yes
+2024/02/28 9:48:05 PM EST,khushi15@bu.edu,Female,2.0,4,4,Style Versatility,3,Yes
+2024/02/28 11:10:40 PM EST,mahishag@gmail.com,Female,2.0,5,5,Breathability,5,Yes
+2024/02/29 1:01:48 AM EST,hhimani3@bu.edu,Female,2.0,4,3,Material,2,Yes
+2024/02/29 1:20:38 AM EST,li888@bu.edu,Male,2.0,3,3,Durability,2,Yes
+2024/02/29 9:17:37 AM EST,aniketsantoshwar95@gmail.com,Male,2.0,1,2,Style Versatility,2,Yes
+2024/02/29 10:53:44 AM EST,blajb@bu.edu,Female,2.0,1,1,Style Versatility,1,Yes
+2024/02/29 2:56:48 PM EST,loreleil@bu.edu,Female,2.0,4,3,Style Versatility,3,Yes
+2024/02/27 6:08:48 PM EST,isheeta29anand@gmail.com,Female,3.0,4,4,Style Versatility,4,Yes
+2024/02/27 6:18:38 PM EST,ankurbhardwaj87@gmail.com,Male,3.0,3,3,Durability,3,Yes
+2024/02/27 6:20:52 PM EST,parthav.shah@utdallas.edu,Male,3.0,2,2,Style Versatility,4,Yes
+2024/02/27 6:32:16 PM EST,monicagrover13@me.com,Female,3.0,1,2,Breathability,2,Yes
+2024/02/27 6:43:49 PM EST,udaygarg1998@gmail.com,Female,3.0,1,1,Durability,1,Yes
+2024/02/27 6:46:39 PM EST,deepsundar1995@gmail.com,Male,3.0,4,3,Breathability,4,Yes
+2024/02/27 6:57:42 PM EST,fnupunyaplaban@gmail.com,Male,3.0,3,2,Durability,1,Yes
+2024/02/27 8:26:16 PM EST,deepasinghdamodar@gmail.com,Female,3.0,1,1,Breathability,1,Yes
+2024/02/27 8:56:06 PM EST,mohitbagdwal008@gmail.com,Male,3.0,5,1,Material,4,Yes
+2024/02/27 8:57:13 PM EST,workaholicsush@gmail.com,Female,3.0,1,1,Style Versatility,1,Yes
+2024/02/27 8:58:34 PM EST,nehan.1991@gmail.com,Female,3.0,2,2,Breathability,1,Yes
+2024/02/27 9:00:26 PM EST,achsah.paul@gmail.com,Female,3.0,3,4,Durability,3,Yes
+2024/02/27 9:22:06 PM EST,sharma.cruise007@gmail.com,Male,3.0,2,2,Breathability,1,Yes
+2024/02/27 9:29:32 PM EST,riyansh2420@gmail.com,Male,3.0,3,3,Breathability,2,Yes
+2024/02/27 9:52:04 PM EST,garima.sharma0516@gmail.com,Female,3.0,3,3,Durability,3,Yes
+2024/02/27 10:00:46 PM EST,ramya.doll89@gmail.com,Female,3.0,5,4,Style Versatility,4,Yes
+2024/02/27 10:03:23 PM EST,mrinalmj@outlook.com,Male,3.0,1,1,Breathability,1,Yes
+2024/02/27 10:03:30 PM EST,meghabharti2020@gmail.com,Female,3.0,4,5,Traction and Grip,5,Yes
+2024/02/27 10:13:11 PM EST,dtyagi20@iisertvm.ac.in,Female,3.0,5,4,Material,4,Yes
+2024/02/27 10:18:51 PM EST,roza07861@gmail.com,Female,3.0,4,3,Style Versatility,4,Yes
+2024/02/27 10:33:07 PM EST,singhsonam2128@gmail.com,Female,3.0,5,5,Style Versatility,4,Yes
+2024/02/27 11:31:54 PM EST,sharma95828@gmail.com,Female,3.0,3,4,Style Versatility,4,Yes
+2024/02/28 12:38:56 AM EST,archanavakiti@gmail.com,Female,3.0,5,5,Traction and Grip,5,Yes
+2024/02/28 3:44:06 AM EST,BHUYANSURABHI210@GMAIL.COM,Female,3.0,2,4,Breathability,1,Yes
+2024/02/28 3:48:08 AM EST,ayushmoharana24@gmail.com,Male,3.0,1,1,Breathability,1,Yes
+2024/02/28 3:50:17 AM EST,srinibash.dav@gmail.com,Male,3.0,1,2,Durability,2,Yes
+2024/02/28 3:52:11 AM EST,PRIYANSHI.SINGH06@GMAIL.COM,Female,3.0,4,4,Breathability,4,Yes
+2024/02/28 3:54:39 AM EST,preeti.pratikshya51@gmail.com,Female,3.0,2,2,Material,1,Yes
+2024/02/28 3:56:14 AM EST,shibaishappy@gmail.com,Male,3.0,2,3,Traction and Grip,4,Yes
+2024/02/28 4:08:06 AM EST,dmmelkani27@gmail.com,Female,3.0,1,2,Durability,1,Yes
+2024/02/28 5:47:41 AM EST,bose.snigdha08@gmail.com,Female,3.0,4,4,Breathability,4,Yes
+2024/02/28 7:00:52 AM EST,prabhatskushwaha@gmail.com,Male,3.0,2,2,Traction and Grip,2,Yes
+2024/02/28 7:06:17 AM EST,rahulvignesh1994@gmail.com,Male,3.0,3,3,Traction and Grip,3,Yes
+2024/02/28 7:21:19 AM EST,subhabrata37@gmail.com,Male,3.0,5,4,Durability,4,Yes
+2024/02/28 7:40:11 AM EST,karthickj93@gmail.com,Male,3.0,4,3,Breathability,4,Yes
+2024/02/28 7:40:40 AM EST,takichittu@gmail.com,Female,3.0,5,4,Traction and Grip,5,Yes
+2024/02/28 7:41:35 AM EST,anamikaraj2408@gmail.com,Female,3.0,3,3,Material,3,Yes
+2024/02/28 7:58:56 AM EST,nithish31032002@gmail.com,Male,3.0,2,3,Material,3,Yes
+2024/02/28 8:00:42 AM EST,balasurya2899@gmail.com,Male,3.0,3,3,Traction and Grip,3,Yes
+2024/02/28 8:12:17 PM EST,ananya5@bu.edu,Female,3.0,5,5,Style Versatility,5,Yes
+2024/02/28 8:22:21 PM EST,atharva7@bu.edu,Male,3.0,2,5,Breathability,4,Yes
+2024/02/28 8:22:23 PM EST,hnchan@bu.edu,Female,3.0,1,1,Style Versatility,1,Yes
+2024/02/28 8:30:25 PM EST,tvkabi22@gmail.com,Female,3.0,2,3,Traction and Grip,1,Yes
+2024/02/28 8:34:37 PM EST,arauthan@bu.edu,Male,3.0,5,5,Style Versatility,5,Yes
+2024/02/28 8:37:10 PM EST,dylanjk@bu.edu,Male,3.0,5,5,Style Versatility,5,Yes
+2024/02/28 8:44:37 PM EST,chjain@bu.edu,Female,3.0,4,2,Breathability,4,Yes
+2024/02/28 8:45:33 PM EST,gaurangi@bu.edu,Female,3.0,3,4,Traction and Grip,4,Yes
+2024/02/28 8:47:04 PM EST,drohit@bu.edu,Male,3.0,2,1,Breathability,1,Yes
+2024/02/28 8:58:56 PM EST,askmegha@bu.edu,Female,3.0,4,4,Material,3,Yes
+2024/02/28 9:06:23 PM EST,prdpmn@gmail.com,Male,3.0,4,4,Style Versatility,4,Yes
+2024/02/28 9:06:30 PM EST,jishnum@bu.edu,Male,3.0,5,3,Style Versatility,5,Yes
+2024/02/28 9:29:18 PM EST,soumyapratap97@gmail.com,Female,3.0,1,2,Durability,1,Yes
+2024/02/28 9:36:38 PM EST,dreyer23@bu.edu,Female,3.0,4,3,Style Versatility,3,Yes
+2024/02/28 9:48:05 PM EST,khushi15@bu.edu,Female,3.0,2,2,Style Versatility,2,Yes
+2024/02/28 11:10:40 PM EST,mahishag@gmail.com,Female,3.0,4,4,Breathability,3,Yes
+2024/02/29 1:01:48 AM EST,hhimani3@bu.edu,Female,3.0,4,4,Material,4,Yes
+2024/02/29 1:20:38 AM EST,li888@bu.edu,Male,3.0,1,1,Durability,1,Yes
+2024/02/29 9:17:37 AM EST,aniketsantoshwar95@gmail.com,Male,3.0,3,2,Style Versatility,3,Yes
+2024/02/29 10:53:44 AM EST,blajb@bu.edu,Female,3.0,3,2,Style Versatility,1,Yes
+2024/02/29 2:56:48 PM EST,loreleil@bu.edu,Female,3.0,3,2,Style Versatility,1,Yes
+2024/02/27 6:08:48 PM EST,isheeta29anand@gmail.com,Female,4.0,4,4,Style Versatility,4,Yes
+2024/02/27 6:18:38 PM EST,ankurbhardwaj87@gmail.com,Male,4.0,3,3,Durability,3,Yes
+2024/02/27 6:20:52 PM EST,parthav.shah@utdallas.edu,Male,4.0,4,3,Style Versatility,4,Yes
+2024/02/27 6:32:16 PM EST,monicagrover13@me.com,Female,4.0,4,4,Breathability,4,Yes
+2024/02/27 6:43:49 PM EST,udaygarg1998@gmail.com,Female,4.0,3,2,Durability,3,Yes
+2024/02/27 6:46:39 PM EST,deepsundar1995@gmail.com,Male,4.0,5,5,Style Versatility,5,Yes
+2024/02/27 6:57:42 PM EST,fnupunyaplaban@gmail.com,Male,4.0,3,2,Style Versatility,4,Yes
+2024/02/27 8:26:16 PM EST,deepasinghdamodar@gmail.com,Female,4.0,2,2,Breathability,1,Yes
+2024/02/27 8:56:06 PM EST,mohitbagdwal008@gmail.com,Male,4.0,3,4,Material,3,Yes
+2024/02/27 8:57:13 PM EST,workaholicsush@gmail.com,Female,4.0,4,4,Style Versatility,4,Yes
+2024/02/27 8:58:34 PM EST,nehan.1991@gmail.com,Female,4.0,4,4,Breathability,4,Yes
+2024/02/27 9:00:26 PM EST,achsah.paul@gmail.com,Female,4.0,5,1,Breathability,5,Yes
+2024/02/27 9:22:06 PM EST,sharma.cruise007@gmail.com,Male,4.0,2,4,Breathability,1,Yes
+2024/02/27 9:29:32 PM EST,riyansh2420@gmail.com,Male,4.0,5,1,Durability,2,Yes
+2024/02/27 9:52:04 PM EST,garima.sharma0516@gmail.com,Female,4.0,4,4,Style Versatility,4,Yes
+2024/02/27 10:00:46 PM EST,ramya.doll89@gmail.com,Female,4.0,3,4,Traction and Grip,4,Yes
+2024/02/27 10:03:23 PM EST,mrinalmj@outlook.com,Male,4.0,4,4,Breathability,3,Yes
+2024/02/27 10:03:30 PM EST,meghabharti2020@gmail.com,Female,4.0,5,5,Durability,5,Yes
+2024/02/27 10:13:11 PM EST,dtyagi20@iisertvm.ac.in,Female,4.0,3,4,Breathability,2,Yes
+2024/02/27 10:18:51 PM EST,roza07861@gmail.com,Female,4.0,2,4,Style Versatility,2,Yes
+2024/02/27 10:33:07 PM EST,singhsonam2128@gmail.com,Female,4.0,4,5,Durability,4,Yes
+2024/02/27 11:31:54 PM EST,sharma95828@gmail.com,Female,4.0,4,4,Breathability,4,Yes
+2024/02/28 12:38:56 AM EST,archanavakiti@gmail.com,Female,4.0,5,5,Traction and Grip,5,Yes
+2024/02/28 3:44:06 AM EST,BHUYANSURABHI210@GMAIL.COM,Female,4.0,5,5,Style Versatility,4,Yes
+2024/02/28 3:48:08 AM EST,ayushmoharana24@gmail.com,Male,4.0,2,3,Breathability,1,Yes
+2024/02/28 3:50:17 AM EST,srinibash.dav@gmail.com,Male,4.0,2,2,Durability,2,Yes
+2024/02/28 3:52:11 AM EST,PRIYANSHI.SINGH06@GMAIL.COM,Female,4.0,5,4,Breathability,4,Yes
+2024/02/28 3:54:39 AM EST,preeti.pratikshya51@gmail.com,Female,4.0,3,3,Durability,3,Yes
+2024/02/28 3:56:14 AM EST,shibaishappy@gmail.com,Male,4.0,1,4,Style Versatility,4,Yes
+2024/02/28 4:08:06 AM EST,dmmelkani27@gmail.com,Female,4.0,5,1,Durability,1,Yes
+2024/02/28 5:47:41 AM EST,bose.snigdha08@gmail.com,Female,4.0,2,3,Material,2,Yes
+2024/02/28 7:00:52 AM EST,prabhatskushwaha@gmail.com,Male,4.0,2,3,Traction and Grip,3,Yes
+2024/02/28 7:06:17 AM EST,rahulvignesh1994@gmail.com,Male,4.0,4,4,Durability,4,Yes
+2024/02/28 7:21:19 AM EST,subhabrata37@gmail.com,Male,4.0,4,4,Traction and Grip,4,Yes
+2024/02/28 7:40:11 AM EST,karthickj93@gmail.com,Male,4.0,3,4,Material,3,Yes
+2024/02/28 7:40:40 AM EST,takichittu@gmail.com,Female,4.0,4,5,Style Versatility,4,Yes
+2024/02/28 7:41:35 AM EST,anamikaraj2408@gmail.com,Female,4.0,3,3,Material,3,Yes
+2024/02/28 7:58:56 AM EST,nithish31032002@gmail.com,Male,4.0,3,3,Material,3,Yes
+2024/02/28 8:00:42 AM EST,balasurya2899@gmail.com,Male,4.0,4,4,Material,4,Yes
+2024/02/28 8:12:17 PM EST,ananya5@bu.edu,Female,4.0,3,3,Traction and Grip,3,Yes
+2024/02/28 8:22:21 PM EST,atharva7@bu.edu,Male,4.0,4,4,Traction and Grip,3,Yes
+2024/02/28 8:22:23 PM EST,hnchan@bu.edu,Female,4.0,4,4,Style Versatility,3,Yes
+2024/02/28 8:30:25 PM EST,tvkabi22@gmail.com,Female,4.0,4,4,Traction and Grip,4,Yes
+2024/02/28 8:34:37 PM EST,arauthan@bu.edu,Male,4.0,3,3,Style Versatility,3,Yes
+2024/02/28 8:37:10 PM EST,dylanjk@bu.edu,Male,4.0,4,3,Style Versatility,5,Yes
+2024/02/28 8:44:37 PM EST,chjain@bu.edu,Female,4.0,4,4,Breathability,4,Yes
+2024/02/28 8:45:33 PM EST,gaurangi@bu.edu,Female,4.0,2,4,Traction and Grip,3,Yes
+2024/02/28 8:47:04 PM EST,drohit@bu.edu,Male,4.0,2,4,Style Versatility,1,Yes
+2024/02/28 8:58:56 PM EST,askmegha@bu.edu,Female,4.0,4,4,Material,4,Yes
+2024/02/28 9:06:23 PM EST,prdpmn@gmail.com,Male,4.0,1,2,Style Versatility,1,Yes
+2024/02/28 9:06:30 PM EST,jishnum@bu.edu,Male,4.0,1,1,Style Versatility,1,Yes
+2024/02/28 9:29:18 PM EST,soumyapratap97@gmail.com,Female,4.0,2,3,Durability,2,Yes
+2024/02/28 9:36:38 PM EST,dreyer23@bu.edu,Female,4.0,1,2,Style Versatility,1,Yes
+2024/02/28 9:48:05 PM EST,khushi15@bu.edu,Female,4.0,5,4,Style Versatility,4,Yes
+2024/02/28 11:10:40 PM EST,mahishag@gmail.com,Female,4.0,1,1,Breathability,1,Yes
+2024/02/29 1:01:48 AM EST,hhimani3@bu.edu,Female,4.0,4,4,Material,4,Yes
+2024/02/29 1:20:38 AM EST,li888@bu.edu,Male,4.0,4,4,Durability,4,Yes
+2024/02/29 9:17:37 AM EST,aniketsantoshwar95@gmail.com,Male,4.0,4,4,Durability,3,Yes
+2024/02/29 10:53:44 AM EST,blajb@bu.edu,Female,4.0,4,3,Style Versatility,2,Yes
+2024/02/29 2:56:48 PM EST,loreleil@bu.edu,Female,4.0,3,4,Style Versatility,1,Yes
+2024/02/27 6:08:48 PM EST,isheeta29anand@gmail.com,Female,5.0,3,4,Style Versatility,2,Yes
+2024/02/27 6:18:38 PM EST,ankurbhardwaj87@gmail.com,Male,5.0,2,2,Durability,2,Yes
+2024/02/27 6:20:52 PM EST,parthav.shah@utdallas.edu,Male,5.0,1,1,Style Versatility,2,Yes
+2024/02/27 6:32:16 PM EST,monicagrover13@me.com,Female,5.0,5,5,Breathability,5,Yes
+2024/02/27 6:43:49 PM EST,udaygarg1998@gmail.com,Female,5.0,1,3,Durability,1,Yes
+2024/02/27 6:46:39 PM EST,deepsundar1995@gmail.com,Male,5.0,1,1,Style Versatility,1,Yes
+2024/02/27 6:57:42 PM EST,fnupunyaplaban@gmail.com,Male,5.0,2,1,Traction and Grip,2,Yes
+2024/02/27 8:26:16 PM EST,deepasinghdamodar@gmail.com,Female,5.0,1,1,Durability,1,Yes
+2024/02/27 8:56:06 PM EST,mohitbagdwal008@gmail.com,Male,5.0,1,3,Material,1,Yes
+2024/02/27 8:57:13 PM EST,workaholicsush@gmail.com,Female,5.0,1,3,Style Versatility,2,Yes
+2024/02/27 8:58:34 PM EST,nehan.1991@gmail.com,Female,5.0,3,3,Breathability,2,Yes
+2024/02/27 9:00:26 PM EST,achsah.paul@gmail.com,Female,5.0,2,5,Breathability,1,Yes
+2024/02/27 9:22:06 PM EST,sharma.cruise007@gmail.com,Male,5.0,1,4,Breathability,1,Yes
+2024/02/27 9:29:32 PM EST,riyansh2420@gmail.com,Male,5.0,5,5,Breathability,4,Yes
+2024/02/27 9:52:04 PM EST,garima.sharma0516@gmail.com,Female,5.0,2,2,Material,2,Yes
+2024/02/27 10:00:46 PM EST,ramya.doll89@gmail.com,Female,5.0,3,3,Material,2,Yes
+2024/02/27 10:03:23 PM EST,mrinalmj@outlook.com,Male,5.0,1,4,Breathability,1,Yes
+2024/02/27 10:03:30 PM EST,meghabharti2020@gmail.com,Female,5.0,2,4,Durability,2,Yes
+2024/02/27 10:13:11 PM EST,dtyagi20@iisertvm.ac.in,Female,5.0,3,2,Breathability,2,Yes
+2024/02/27 10:18:51 PM EST,roza07861@gmail.com,Female,5.0,1,2,Style Versatility,1,Yes
+2024/02/27 10:33:07 PM EST,singhsonam2128@gmail.com,Female,5.0,1,3,Traction and Grip,2,Yes
+2024/02/27 11:31:54 PM EST,sharma95828@gmail.com,Female,5.0,4,5,Traction and Grip,5,Yes
+2024/02/28 12:38:56 AM EST,archanavakiti@gmail.com,Female,5.0,4,4,Breathability,5,Yes
+2024/02/28 3:44:06 AM EST,BHUYANSURABHI210@GMAIL.COM,Female,5.0,1,4,Style Versatility,2,Yes
+2024/02/28 3:48:08 AM EST,ayushmoharana24@gmail.com,Male,5.0,1,1,Breathability,1,Yes
+2024/02/28 3:50:17 AM EST,srinibash.dav@gmail.com,Male,5.0,2,3,Durability,2,Yes
+2024/02/28 3:52:11 AM EST,PRIYANSHI.SINGH06@GMAIL.COM,Female,5.0,4,4,Breathability,4,Yes
+2024/02/28 3:54:39 AM EST,preeti.pratikshya51@gmail.com,Female,5.0,2,2,Material,2,Yes
+2024/02/28 3:56:14 AM EST,shibaishappy@gmail.com,Male,5.0,1,1,Traction and Grip,1,Yes
+2024/02/28 4:08:06 AM EST,dmmelkani27@gmail.com,Female,5.0,1,1,Durability,1,Yes
+2024/02/28 5:47:41 AM EST,bose.snigdha08@gmail.com,Female,5.0,1,3,Style Versatility,1,Yes
+2024/02/28 7:00:52 AM EST,prabhatskushwaha@gmail.com,Male,5.0,1,1,Traction and Grip,1,Yes
+2024/02/28 7:06:17 AM EST,rahulvignesh1994@gmail.com,Male,5.0,2,3,Style Versatility,2,Yes
+2024/02/28 7:21:19 AM EST,subhabrata37@gmail.com,Male,5.0,2,2,Durability,1,Yes
+2024/02/28 7:40:11 AM EST,karthickj93@gmail.com,Male,5.0,3,5,Material,4,Yes
+2024/02/28 7:40:40 AM EST,takichittu@gmail.com,Female,5.0,1,2,Style Versatility,1,Yes
+2024/02/28 7:41:35 AM EST,anamikaraj2408@gmail.com,Female,5.0,2,2,Material,3,Yes
+2024/02/28 7:58:56 AM EST,nithish31032002@gmail.com,Male,5.0,1,1,Material,1,Yes
+2024/02/28 8:00:42 AM EST,balasurya2899@gmail.com,Male,5.0,3,3,Durability,3,Yes
+2024/02/28 8:12:17 PM EST,ananya5@bu.edu,Female,5.0,1,1,Style Versatility,1,Yes
+2024/02/28 8:22:21 PM EST,atharva7@bu.edu,Male,5.0,2,5,Style Versatility,1,Yes
+2024/02/28 8:22:23 PM EST,hnchan@bu.edu,Female,5.0,4,3,Style Versatility,1,Yes
+2024/02/28 8:30:25 PM EST,tvkabi22@gmail.com,Female,5.0,3,4,Traction and Grip,2,Yes
+2024/02/28 8:34:37 PM EST,arauthan@bu.edu,Male,5.0,1,4,Style Versatility,1,Yes
+2024/02/28 8:37:10 PM EST,dylanjk@bu.edu,Male,5.0,1,4,Style Versatility,1,Yes
+2024/02/28 8:44:37 PM EST,chjain@bu.edu,Female,5.0,1,3,Breathability,4,Yes
+2024/02/28 8:45:33 PM EST,gaurangi@bu.edu,Female,5.0,1,4,Traction and Grip,1,Yes
+2024/02/28 8:47:04 PM EST,drohit@bu.edu,Male,5.0,1,2,Style Versatility,1,Yes
+2024/02/28 8:58:56 PM EST,askmegha@bu.edu,Female,5.0,4,4,Material,4,Yes
+2024/02/28 9:06:23 PM EST,prdpmn@gmail.com,Male,5.0,1,5,Style Versatility,1,Yes
+2024/02/28 9:06:30 PM EST,jishnum@bu.edu,Male,5.0,1,1,Style Versatility,1,Yes
+2024/02/28 9:29:18 PM EST,soumyapratap97@gmail.com,Female,5.0,1,1,Durability,1,Yes
+2024/02/28 9:36:38 PM EST,dreyer23@bu.edu,Female,5.0,1,3,Style Versatility,1,Yes
+2024/02/28 9:48:05 PM EST,khushi15@bu.edu,Female,5.0,1,2,Style Versatility,1,Yes
+2024/02/28 11:10:40 PM EST,mahishag@gmail.com,Female,5.0,4,4,Breathability,3,Yes
+2024/02/29 1:01:48 AM EST,hhimani3@bu.edu,Female,5.0,2,4,Material,1,Yes
+2024/02/29 1:20:38 AM EST,li888@bu.edu,Male,5.0,3,3,Durability,3,Yes
+2024/02/29 9:17:37 AM EST,aniketsantoshwar95@gmail.com,Male,5.0,1,1,Durability,1,Yes
+2024/02/29 10:53:44 AM EST,blajb@bu.edu,Female,5.0,1,1,Style Versatility,1,Yes
+2024/02/29 2:56:48 PM EST,loreleil@bu.edu,Female,5.0,4,3,Style Versatility,3,Yes
+2024/02/27 6:10:41 PM EST,lohithareddykolli@gmail.com,Female,1.0,4,3,Material,2,No
+2024/02/27 6:11:03 PM EST,sahithyaparvathareddy@gmail.com,Female,1.0,4,5,Material,5,No
+2024/02/27 6:50:59 PM EST,mit10desai@gmail.com,Male,1.0,1,2,Breathability,1,No
+2024/02/27 7:39:41 PM EST,praikshitajain@gmail.com,Female,1.0,3,4,Traction and Grip,3,No
+2024/02/27 7:40:36 PM EST,pavithrakumaresan6@gmail.com,Female,1.0,3,3,Traction and Grip,2,No
+2024/02/27 9:28:10 PM EST,ruphaasrikp@gmail.com,Female,1.0,4,5,Material,2,No
+2024/02/27 9:37:19 PM EST,divinebrat@gmail.com,Male,1.0,5,5,Breathability,1,No
+2024/02/27 9:41:34 PM EST,kkaizad21@gmail.com,Male,1.0,3,3,Durability,4,No
+2024/02/27 10:07:36 PM EST,joel.dsouza2110@gmail.com,Male,1.0,4,2,Material,2,No
+2024/02/27 11:13:58 PM EST,vinayreddy3101@gmail.com,Male,1.0,4,3,Durability,2,No
+2024/02/28 12:03:16 AM EST,vishruthi1301@gmail.com,Female,1.0,5,5,Traction and Grip,5,No
+2024/02/28 4:15:39 AM EST,snigdhareddy815@gmail.com,Female,1.0,3,4,Durability,3,No
+2024/02/28 7:27:18 AM EST,gargisharma1208@gmail.com,Female,1.0,3,4,Durability,3,No
+2024/02/28 7:30:15 AM EST,aakashgangwar56@gmail.com,Male,1.0,1,2,Material,4,No
+2024/02/28 7:33:50 AM EST,20.shruti.j@gmail.com,Female,1.0,4,4,Breathability,2,No
+2024/02/28 7:38:05 AM EST,devnsh2010@gmail.com,Male,1.0,4,5,Durability,1,No
+2024/02/28 8:29:19 AM EST,tamannasharma.2201@gmail.com,Female,1.0,2,1,Durability,2,No
+2024/02/28 8:33:50 AM EST,sharmabhavya0308@gmail.com,Male,1.0,5,5,Style Versatility,4,No
+2024/02/28 8:38:05 AM EST,abch1@gmail.com,Male,1.0,3,3,Traction and Grip,1,No
+2024/02/28 8:39:10 AM EST,kangansingh123@gmail.com,Female,1.0,3,4,Style Versatility,3,No
+2024/02/28 8:41:50 AM EST,2606priyanshu.sharma@gmail.com,Male,1.0,4,3,Durability,2,No
+2024/02/28 8:53:20 AM EST,rishitnagpal1@gmail.com,Male,1.0,1,3,Material,1,No
+2024/02/28 8:56:22 AM EST,himanshupahwa2000@gmail.com,Male,1.0,3,4,Style Versatility,2,No
+2024/02/28 9:42:12 AM EST,paridhimalhotra7851@gmail.com,Female,1.0,4,4,Durability,4,No
+2024/02/28 9:43:14 AM EST,dekondalkar@gmail.com,Male,1.0,1,4,Durability,2,No
+2024/02/28 10:08:35 AM EST,devaansh2061@gmail.com,Male,1.0,4,3,Style Versatility,3,No
+2024/02/28 10:11:06 AM EST,keshugadodia@gmail.com,Male,1.0,3,3,Durability,2,No
+2024/02/28 10:21:33 AM EST,pratham9@bu.edu,Male,1.0,2,2,Breathability,2,No
+2024/02/28 12:41:27 PM EST,venkateshbijukumar@gmail.com,Male,1.0,2,4,Style Versatility,3,No
+2024/02/28 12:52:36 PM EST,shripadbijani@gmail.com,Male,1.0,1,2,Durability,1,No
+2024/02/28 12:58:10 PM EST,rajputgurpreet920@gmail.com,Male,1.0,3,4,Material,3,No
+2024/02/28 1:04:00 PM EST,lodha9krish@gmail.com,Female,1.0,2,3,Durability,1,No
+2024/02/28 1:13:43 PM EST,fakhruddinarjan6@gmail.com,Male,1.0,1,2,Durability,1,No
+2024/02/28 1:16:29 PM EST,nandinikale25@gmail.com,Female,1.0,1,3,Breathability,3,No
+2024/02/28 1:26:05 PM EST,ukroyur@bu.edu,Male,1.0,4,4,Style Versatility,5,No
+2024/02/28 1:40:27 PM EST,bhavyamittal190@gmail.com,Female,1.0,3,4,Breathability,3,No
+2024/02/28 1:49:54 PM EST,jenikashah07@gmail.com,Female,1.0,1,4,Style Versatility,1,No
+2024/02/28 2:26:52 PM EST,fsanjeliwala@gmail.com,Female,1.0,3,4,Traction and Grip,2,No
+2024/02/28 5:51:07 PM EST,123@gmail.com,Female,1.0,4,4,Style Versatility,4,No
+2024/02/28 6:54:07 PM EST,mxzhao@bu.edu,Female,1.0,4,3,Breathability,2,No
+2024/02/28 6:54:46 PM EST,vkaza@bu.edu,Male,1.0,4,5,Durability,3,No
+2024/02/28 6:55:07 PM EST,yahuiwen@bu.edu,Female,1.0,3,3,Material,2,No
+2024/02/28 6:55:32 PM EST,yanqisu@bu.edu,Male,1.0,3,4,Style Versatility,2,No
+2024/02/28 6:57:39 PM EST,wym1205@bu.edu,Male,1.0,1,3,Style Versatility,1,No
+2024/02/28 7:17:25 PM EST,mitchwu@bu.edu,Male,1.0,2,2,Material,1,No
+2024/02/28 7:17:54 PM EST,tjessica@bu.edu,Female,1.0,4,5,Style Versatility,5,No
+2024/02/28 7:18:36 PM EST,priyac08@bu.edu,Female,1.0,5,5,Style Versatility,4,No
+2024/02/28 7:22:41 PM EST,tyang34@bu.edu,Female,1.0,1,2,Style Versatility,1,No
+2024/02/28 7:42:40 PM EST,minxu99@bu.edu,Female,1.0,3,3,Style Versatility,2,No
+2024/02/28 8:18:57 PM EST,zywzyw@bu.edu,Male,1.0,2,4,Style Versatility,1,No
+2024/02/28 8:30:51 PM EST,olimpiab@bu.edu,Female,1.0,2,2,Material,2,No
+2024/02/28 8:56:39 PM EST,shayanhk@bu.edu,Male,1.0,4,4,Style Versatility,1,No
+2024/02/28 10:04:59 PM EST,mahikabh@bu.edu,Female,1.0,3,5,Durability,2,No
+2024/02/28 10:52:04 PM EST,sahasra@bu.edu,Female,1.0,4,4,Style Versatility,3,No
+2024/02/28 11:03:31 PM EST,setushah@bu.edu,Male,1.0,2,4,Durability,1,No
+2024/02/28 11:37:57 PM EST,prudhvir@bu.edu,Male,1.0,2,3,Traction and Grip,1,No
+2024/02/29 11:58:25 AM EST,tangyum@bu.edu,Female,1.0,2,4,Durability,2,No
+2024/02/29 12:16:24 PM EST,pmpatel@bu.edu,Female,1.0,4,3,Traction and Grip,1,No
+2024/02/29 5:25:06 PM EST,ririsgs@bu.edu,Female,1.0,3,3,Durability,3,No
+2024/03/01 2:47:20 PM EST,ycheng6@bu.edu,Male,1.0,1,3,Style Versatility,1,No
+2024/02/27 6:10:41 PM EST,lohithareddykolli@gmail.com,Female,2.0,3,4,Breathability,3,No
+2024/02/27 6:11:03 PM EST,sahithyaparvathareddy@gmail.com,Female,2.0,3,2,Style Versatility,3,No
+2024/02/27 6:50:59 PM EST,mit10desai@gmail.com,Male,2.0,2,2,Breathability,1,No
+2024/02/27 7:39:41 PM EST,praikshitajain@gmail.com,Female,2.0,4,4,Traction and Grip,5,No
+2024/02/27 7:40:36 PM EST,pavithrakumaresan6@gmail.com,Female,2.0,4,3,Durability,3,No
+2024/02/27 9:28:10 PM EST,ruphaasrikp@gmail.com,Female,2.0,5,5,Material,2,No
+2024/02/27 9:37:19 PM EST,divinebrat@gmail.com,Male,2.0,1,4,Breathability,1,No
+2024/02/27 9:41:34 PM EST,kkaizad21@gmail.com,Male,2.0,1,2,Durability,1,No
+2024/02/27 10:07:36 PM EST,joel.dsouza2110@gmail.com,Male,2.0,1,1,Material,1,No
+2024/02/27 11:13:58 PM EST,vinayreddy3101@gmail.com,Male,2.0,3,5,Durability,2,No
+2024/02/28 12:03:16 AM EST,vishruthi1301@gmail.com,Female,2.0,3,2,Durability,5,No
+2024/02/28 4:15:39 AM EST,snigdhareddy815@gmail.com,Female,2.0,2,3,Style Versatility,1,No
+2024/02/28 7:27:18 AM EST,gargisharma1208@gmail.com,Female,2.0,4,4,Durability,4,No
+2024/02/28 7:30:15 AM EST,aakashgangwar56@gmail.com,Male,2.0,3,2,Material,4,No
+2024/02/28 7:33:50 AM EST,20.shruti.j@gmail.com,Female,2.0,3,3,Durability,1,No
+2024/02/28 7:38:05 AM EST,devnsh2010@gmail.com,Male,2.0,4,4,Durability,1,No
+2024/02/28 8:29:19 AM EST,tamannasharma.2201@gmail.com,Female,2.0,1,1,Durability,1,No
+2024/02/28 8:33:50 AM EST,sharmabhavya0308@gmail.com,Male,2.0,5,5,Material,4,No
+2024/02/28 8:38:05 AM EST,abch1@gmail.com,Male,2.0,4,4,Traction and Grip,1,No
+2024/02/28 8:39:10 AM EST,kangansingh123@gmail.com,Female,2.0,2,3,Style Versatility,2,No
+2024/02/28 8:41:50 AM EST,2606priyanshu.sharma@gmail.com,Male,2.0,5,4,Durability,2,No
+2024/02/28 8:53:20 AM EST,rishitnagpal1@gmail.com,Male,2.0,1,2,Material,1,No
+2024/02/28 8:56:22 AM EST,himanshupahwa2000@gmail.com,Male,2.0,1,1,Style Versatility,1,No
+2024/02/28 9:42:12 AM EST,paridhimalhotra7851@gmail.com,Female,2.0,4,4,Durability,3,No
+2024/02/28 9:43:14 AM EST,dekondalkar@gmail.com,Male,2.0,1,2,Durability,1,No
+2024/02/28 10:08:35 AM EST,devaansh2061@gmail.com,Male,2.0,5,3,Style Versatility,4,No
+2024/02/28 10:11:06 AM EST,keshugadodia@gmail.com,Male,2.0,3,3,Durability,2,No
+2024/02/28 10:21:33 AM EST,pratham9@bu.edu,Male,2.0,1,4,Breathability,2,No
+2024/02/28 12:41:27 PM EST,venkateshbijukumar@gmail.com,Male,2.0,2,3,Traction and Grip,2,No
+2024/02/28 12:52:36 PM EST,shripadbijani@gmail.com,Male,2.0,3,3,Durability,2,No
+2024/02/28 12:58:10 PM EST,rajputgurpreet920@gmail.com,Male,2.0,4,4,Material,5,No
+2024/02/28 1:04:00 PM EST,lodha9krish@gmail.com,Female,2.0,3,3,Durability,3,No
+2024/02/28 1:13:43 PM EST,fakhruddinarjan6@gmail.com,Male,2.0,4,3,Durability,4,No
+2024/02/28 1:16:29 PM EST,nandinikale25@gmail.com,Female,2.0,2,4,Durability,3,No
+2024/02/28 1:26:05 PM EST,ukroyur@bu.edu,Male,2.0,4,4,Style Versatility,4,No
+2024/02/28 1:40:27 PM EST,bhavyamittal190@gmail.com,Female,2.0,4,3,Material,4,No
+2024/02/28 1:49:54 PM EST,jenikashah07@gmail.com,Female,2.0,3,3,Style Versatility,4,No
+2024/02/28 2:26:52 PM EST,fsanjeliwala@gmail.com,Female,2.0,2,5,Traction and Grip,1,No
+2024/02/28 5:51:07 PM EST,123@gmail.com,Female,2.0,5,4,Style Versatility,4,No
+2024/02/28 6:54:07 PM EST,mxzhao@bu.edu,Female,2.0,2,1,Breathability,1,No
+2024/02/28 6:54:46 PM EST,vkaza@bu.edu,Male,2.0,2,2,Durability,1,No
+2024/02/28 6:55:07 PM EST,yahuiwen@bu.edu,Female,2.0,3,3,Style Versatility,2,No
+2024/02/28 6:55:32 PM EST,yanqisu@bu.edu,Male,2.0,2,2,Style Versatility,2,No
+2024/02/28 6:57:39 PM EST,wym1205@bu.edu,Male,2.0,2,2,Style Versatility,1,No
+2024/02/28 7:17:25 PM EST,mitchwu@bu.edu,Male,2.0,3,2,Material,2,No
+2024/02/28 7:17:54 PM EST,tjessica@bu.edu,Female,2.0,1,3,Style Versatility,1,No
+2024/02/28 7:18:36 PM EST,priyac08@bu.edu,Female,2.0,4,4,Breathability,5,No
+2024/02/28 7:22:41 PM EST,tyang34@bu.edu,Female,2.0,1,1,Material,1,No
+2024/02/28 7:42:40 PM EST,minxu99@bu.edu,Female,2.0,3,3,Style Versatility,3,No
+2024/02/28 8:18:57 PM EST,zywzyw@bu.edu,Male,2.0,3,3,Style Versatility,3,No
+2024/02/28 8:30:51 PM EST,olimpiab@bu.edu,Female,2.0,1,1,Durability,1,No
+2024/02/28 8:56:39 PM EST,shayanhk@bu.edu,Male,2.0,2,2,Style Versatility,1,No
+2024/02/28 10:04:59 PM EST,mahikabh@bu.edu,Female,2.0,5,5,Durability,4,No
+2024/02/28 10:52:04 PM EST,sahasra@bu.edu,Female,2.0,4,4,Style Versatility,4,No
+2024/02/28 11:03:31 PM EST,setushah@bu.edu,Male,2.0,1,3,Style Versatility,1,No
+2024/02/28 11:37:57 PM EST,prudhvir@bu.edu,Male,2.0,2,2,Traction and Grip,1,No
+2024/02/29 11:58:25 AM EST,tangyum@bu.edu,Male,2.0,4,3,Style Versatility,5,No
+2024/02/29 12:16:24 PM EST,pmpatel@bu.edu,Female,2.0,3,3,Traction and Grip,1,No
+2024/02/29 5:25:06 PM EST,ririsgs@bu.edu,Female,2.0,2,2,Durability,1,No
+2024/03/01 2:47:20 PM EST,ycheng6@bu.edu,Male,2.0,1,2,Style Versatility,1,No
+2024/02/27 6:10:41 PM EST,lohithareddykolli@gmail.com,Female,3.0,4,2,Durability,3,No
+2024/02/27 6:11:03 PM EST,sahithyaparvathareddy@gmail.com,Female,3.0,4,5,Breathability,5,No
+2024/02/27 6:50:59 PM EST,mit10desai@gmail.com,Male,3.0,1,1,Durability,1,No
+2024/02/27 7:39:41 PM EST,praikshitajain@gmail.com,Female,3.0,1,1,Traction and Grip,1,No
+2024/02/27 7:40:36 PM EST,pavithrakumaresan6@gmail.com,Female,3.0,2,3,Material,2,No
+2024/02/27 9:28:10 PM EST,ruphaasrikp@gmail.com,Female,3.0,2,4,Style Versatility,1,No
+2024/02/27 9:37:19 PM EST,divinebrat@gmail.com,Male,3.0,2,4,Breathability,2,No
+2024/02/27 9:41:34 PM EST,kkaizad21@gmail.com,Male,3.0,1,1,Durability,1,No
+2024/02/27 10:07:36 PM EST,joel.dsouza2110@gmail.com,Male,3.0,4,4,Material,4,No
+2024/02/27 11:13:58 PM EST,vinayreddy3101@gmail.com,Male,3.0,3,3,Style Versatility,3,No
+2024/02/28 12:03:16 AM EST,vishruthi1301@gmail.com,Female,3.0,3,4,Material,5,No
+2024/02/28 4:15:39 AM EST,snigdhareddy815@gmail.com,Female,3.0,1,2,Style Versatility,1,No
+2024/02/28 7:27:18 AM EST,gargisharma1208@gmail.com,Female,3.0,2,3,Material,1,No
+2024/02/28 7:30:15 AM EST,aakashgangwar56@gmail.com,Male,3.0,4,2,Style Versatility,4,No
+2024/02/28 7:33:50 AM EST,20.shruti.j@gmail.com,Female,3.0,3,3,Traction and Grip,2,No
+2024/02/28 7:38:05 AM EST,devnsh2010@gmail.com,Male,3.0,3,2,Style Versatility,2,No
+2024/02/28 8:29:19 AM EST,tamannasharma.2201@gmail.com,Female,3.0,1,1,Durability,1,No
+2024/02/28 8:33:50 AM EST,sharmabhavya0308@gmail.com,Male,3.0,4,4,Durability,4,No
+2024/02/28 8:38:05 AM EST,abch1@gmail.com,Male,3.0,2,3,Traction and Grip,4,No
+2024/02/28 8:39:10 AM EST,kangansingh123@gmail.com,Female,3.0,4,4,Style Versatility,3,No
+2024/02/28 8:41:50 AM EST,2606priyanshu.sharma@gmail.com,Male,3.0,1,1,Durability,1,No
+2024/02/28 8:53:20 AM EST,rishitnagpal1@gmail.com,Male,3.0,1,1,Material,1,No
+2024/02/28 8:56:22 AM EST,himanshupahwa2000@gmail.com,Male,3.0,2,2,Style Versatility,2,No
+2024/02/28 9:42:12 AM EST,paridhimalhotra7851@gmail.com,Female,3.0,5,5,Durability,4,No
+2024/02/28 9:43:14 AM EST,dekondalkar@gmail.com,Male,3.0,1,2,Durability,1,No
+2024/02/28 10:08:35 AM EST,devaansh2061@gmail.com,Male,3.0,4,2,Style Versatility,3,No
+2024/02/28 10:11:06 AM EST,keshugadodia@gmail.com,Male,3.0,2,2,Durability,2,No
+2024/02/28 10:21:33 AM EST,pratham9@bu.edu,Male,3.0,4,4,Breathability,4,No
+2024/02/28 12:41:27 PM EST,venkateshbijukumar@gmail.com,Male,3.0,4,3,Style Versatility,2,No
+2024/02/28 12:52:36 PM EST,shripadbijani@gmail.com,Male,3.0,2,3,Durability,3,No
+2024/02/28 12:58:10 PM EST,rajputgurpreet920@gmail.com,Male,3.0,4,3,Durability,3,No
+2024/02/28 1:04:00 PM EST,lodha9krish@gmail.com,Female,3.0,4,4,Durability,4,No
+2024/02/28 1:13:43 PM EST,fakhruddinarjan6@gmail.com,Male,3.0,1,1,Durability,1,No
+2024/02/28 1:16:29 PM EST,nandinikale25@gmail.com,Female,3.0,3,3,Material,3,No
+2024/02/28 1:26:05 PM EST,ukroyur@bu.edu,Male,3.0,5,5,Breathability,5,No
+2024/02/28 1:40:27 PM EST,bhavyamittal190@gmail.com,Female,3.0,4,3,Breathability,4,No
+2024/02/28 1:49:54 PM EST,jenikashah07@gmail.com,Female,3.0,1,4,Style Versatility,2,No
+2024/02/28 2:26:52 PM EST,fsanjeliwala@gmail.com,Female,3.0,4,4,Breathability,3,No
+2024/02/28 5:51:07 PM EST,123@gmail.com,Female,3.0,3,3,Style Versatility,3,No
+2024/02/28 6:54:07 PM EST,mxzhao@bu.edu,Female,3.0,3,2,Breathability,3,No
+2024/02/28 6:54:46 PM EST,vkaza@bu.edu,Male,3.0,2,3,Durability,1,No
+2024/02/28 6:55:07 PM EST,yahuiwen@bu.edu,Female,3.0,4,3,Style Versatility,3,No
+2024/02/28 6:55:32 PM EST,yanqisu@bu.edu,Male,3.0,4,2,Style Versatility,1,No
+2024/02/28 6:57:39 PM EST,wym1205@bu.edu,Male,3.0,1,2,Style Versatility,1,No
+2024/02/28 7:17:25 PM EST,mitchwu@bu.edu,Male,3.0,1,2,Breathability,1,No
+2024/02/28 7:17:54 PM EST,tjessica@bu.edu,Female,3.0,2,2,Style Versatility,2,No
+2024/02/28 7:18:36 PM EST,priyac08@bu.edu,Female,3.0,4,3,Durability,4,No
+2024/02/28 7:22:41 PM EST,tyang34@bu.edu,Female,3.0,2,1,Style Versatility,2,No
+2024/02/28 7:42:40 PM EST,minxu99@bu.edu,Female,3.0,2,3,Style Versatility,2,No
+2024/02/28 8:18:57 PM EST,zywzyw@bu.edu,Male,3.0,3,2,Style Versatility,2,No
+2024/02/28 8:30:51 PM EST,olimpiab@bu.edu,Female,3.0,5,5,Durability,4,No
+2024/02/28 8:56:39 PM EST,shayanhk@bu.edu,Male,3.0,1,1,Style Versatility,1,No
+2024/02/28 10:04:59 PM EST,mahikabh@bu.edu,Female,3.0,5,5,Durability,5,No
+2024/02/28 10:52:04 PM EST,sahasra@bu.edu,Female,3.0,4,4,Style Versatility,3,No
+2024/02/28 11:03:31 PM EST,setushah@bu.edu,Male,3.0,4,3,Style Versatility,3,No
+2024/02/28 11:37:57 PM EST,prudhvir@bu.edu,Male,3.0,3,2,Traction and Grip,3,No
+2024/02/29 11:58:25 AM EST,tangyum@bu.edu,Male,3.0,3,4,Durability,3,No
+2024/02/29 12:16:24 PM EST,pmpatel@bu.edu,Female,3.0,1,1,Traction and Grip,1,No
+2024/02/29 5:25:06 PM EST,ririsgs@bu.edu,Female,3.0,2,2,Breathability,2,No
+2024/03/01 2:47:20 PM EST,ycheng6@bu.edu,Male,3.0,3,2,Style Versatility,1,No
+2024/02/27 6:10:41 PM EST,lohithareddykolli@gmail.com,Female,4.0,4,4,Traction and Grip,5,No
+2024/02/27 6:11:03 PM EST,sahithyaparvathareddy@gmail.com,Female,4.0,3,2,Breathability,1,No
+2024/02/27 6:50:59 PM EST,mit10desai@gmail.com,Male,4.0,3,3,Breathability,3,No
+2024/02/27 7:39:41 PM EST,praikshitajain@gmail.com,Female,4.0,1,1,Traction and Grip,1,No
+2024/02/27 7:40:36 PM EST,pavithrakumaresan6@gmail.com,Female,4.0,3,3,Breathability,2,No
+2024/02/27 9:28:10 PM EST,ruphaasrikp@gmail.com,Female,4.0,1,3,Style Versatility,1,No
+2024/02/27 9:37:19 PM EST,divinebrat@gmail.com,Male,4.0,3,4,Breathability,3,No
+2024/02/27 9:41:34 PM EST,kkaizad21@gmail.com,Male,4.0,4,4,Durability,4,No
+2024/02/27 10:07:36 PM EST,joel.dsouza2110@gmail.com,Male,4.0,2,2,Material,2,No
+2024/02/27 11:13:58 PM EST,vinayreddy3101@gmail.com,Male,4.0,4,4,Style Versatility,3,No
+2024/02/28 12:03:16 AM EST,vishruthi1301@gmail.com,Female,4.0,5,5,Traction and Grip,4,No
+2024/02/28 4:15:39 AM EST,snigdhareddy815@gmail.com,Female,4.0,4,4,Durability,4,No
+2024/02/28 7:27:18 AM EST,gargisharma1208@gmail.com,Female,4.0,3,4,Material,2,No
+2024/02/28 7:30:15 AM EST,aakashgangwar56@gmail.com,Male,4.0,3,3,Style Versatility,4,No
+2024/02/28 7:33:50 AM EST,20.shruti.j@gmail.com,Female,4.0,2,2,Material,1,No
+2024/02/28 7:38:05 AM EST,devnsh2010@gmail.com,Male,4.0,1,3,Traction and Grip,1,No
+2024/02/28 8:29:19 AM EST,tamannasharma.2201@gmail.com,Female,4.0,1,3,Durability,1,No
+2024/02/28 8:33:50 AM EST,sharmabhavya0308@gmail.com,Male,4.0,5,5,Breathability,5,No
+2024/02/28 8:38:05 AM EST,abch1@gmail.com,Male,4.0,5,4,Traction and Grip,2,No
+2024/02/28 8:39:10 AM EST,kangansingh123@gmail.com,Female,4.0,4,3,Style Versatility,3,No
+2024/02/28 8:41:50 AM EST,2606priyanshu.sharma@gmail.com,Male,4.0,5,5,Durability,2,No
+2024/02/28 8:53:20 AM EST,rishitnagpal1@gmail.com,Male,4.0,2,3,Material,2,No
+2024/02/28 8:56:22 AM EST,himanshupahwa2000@gmail.com,Male,4.0,3,3,Style Versatility,4,No
+2024/02/28 9:42:12 AM EST,paridhimalhotra7851@gmail.com,Female,4.0,5,5,Durability,4,No
+2024/02/28 9:43:14 AM EST,dekondalkar@gmail.com,Male,4.0,2,2,Durability,1,No
+2024/02/28 10:08:35 AM EST,devaansh2061@gmail.com,Male,4.0,5,4,Style Versatility,4,No
+2024/02/28 10:11:06 AM EST,keshugadodia@gmail.com,Male,4.0,2,2,Durability,2,No
+2024/02/28 10:21:33 AM EST,pratham9@bu.edu,Male,4.0,5,5,Breathability,5,No
+2024/02/28 12:41:27 PM EST,venkateshbijukumar@gmail.com,Male,4.0,2,3,Style Versatility,2,No
+2024/02/28 12:52:36 PM EST,shripadbijani@gmail.com,Male,4.0,1,1,Durability,1,No
+2024/02/28 12:58:10 PM EST,rajputgurpreet920@gmail.com,Male,4.0,3,3,Material,3,No
+2024/02/28 1:04:00 PM EST,lodha9krish@gmail.com,Female,4.0,2,2,Durability,4,No
+2024/02/28 1:13:43 PM EST,fakhruddinarjan6@gmail.com,Male,4.0,5,5,Durability,5,No
+2024/02/28 1:16:29 PM EST,nandinikale25@gmail.com,Female,4.0,4,5,Traction and Grip,5,No
+2024/02/28 1:26:05 PM EST,ukroyur@bu.edu,Male,4.0,4,4,Breathability,3,No
+2024/02/28 1:40:27 PM EST,bhavyamittal190@gmail.com,Female,4.0,4,4,Durability,4,No
+2024/02/28 1:49:54 PM EST,jenikashah07@gmail.com,Female,4.0,4,2,Style Versatility,3,No
+2024/02/28 2:26:52 PM EST,fsanjeliwala@gmail.com,Female,4.0,5,4,Style Versatility,4,No
+2024/02/28 5:51:07 PM EST,123@gmail.com,Female,4.0,2,4,Style Versatility,2,No
+2024/02/28 6:54:07 PM EST,mxzhao@bu.edu,Female,4.0,2,4,Breathability,2,No
+2024/02/28 6:54:46 PM EST,vkaza@bu.edu,Male,4.0,4,5,Durability,1,No
+2024/02/28 6:55:07 PM EST,yahuiwen@bu.edu,Female,4.0,4,4,Durability,3,No
+2024/02/28 6:55:32 PM EST,yanqisu@bu.edu,Male,4.0,1,3,Style Versatility,1,No
+2024/02/28 6:57:39 PM EST,wym1205@bu.edu,Male,4.0,1,4,Style Versatility,1,No
+2024/02/28 7:17:25 PM EST,mitchwu@bu.edu,Male,4.0,3,3,Material,3,No
+2024/02/28 7:17:54 PM EST,tjessica@bu.edu,Female,4.0,4,4,Style Versatility,3,No
+2024/02/28 7:18:36 PM EST,priyac08@bu.edu,Female,4.0,4,5,Traction and Grip,5,No
+2024/02/28 7:22:41 PM EST,tyang34@bu.edu,Female,4.0,1,1,Style Versatility,1,No
+2024/02/28 7:42:40 PM EST,minxu99@bu.edu,Female,4.0,3,4,Style Versatility,2,No
+2024/02/28 8:18:57 PM EST,zywzyw@bu.edu,Male,4.0,3,4,Style Versatility,3,No
+2024/02/28 8:30:51 PM EST,olimpiab@bu.edu,Female,4.0,1,3,Durability,1,No
+2024/02/28 8:56:39 PM EST,shayanhk@bu.edu,Male,4.0,1,1,Style Versatility,1,No
+2024/02/28 10:04:59 PM EST,mahikabh@bu.edu,Female,4.0,5,5,Durability,5,No
+2024/02/28 10:52:04 PM EST,sahasra@bu.edu,Female,4.0,4,4,Durability,4,No
+2024/02/28 11:03:31 PM EST,setushah@bu.edu,Male,4.0,3,4,Style Versatility,3,No
+2024/02/28 11:37:57 PM EST,prudhvir@bu.edu,Male,4.0,2,2,Traction and Grip,2,No
+2024/02/29 11:58:25 AM EST,tangyum@bu.edu,Male,4.0,3,4,Breathability,3,No
+2024/02/29 12:16:24 PM EST,pmpatel@bu.edu,Female,4.0,4,4,Traction and Grip,4,No
+2024/02/29 5:25:06 PM EST,ririsgs@bu.edu,Female,4.0,2,2,Breathability,2,No
+2024/03/01 2:47:20 PM EST,ycheng6@bu.edu,Male,4.0,3,3,Style Versatility,3,No
+2024/02/27 6:10:41 PM EST,lohithareddykolli@gmail.com,Female,5.0,4,4,Breathability,5,No
+2024/02/27 6:11:03 PM EST,sahithyaparvathareddy@gmail.com,Female,5.0,5,5,Breathability,4,No
+2024/02/27 6:50:59 PM EST,mit10desai@gmail.com,Male,5.0,1,1,Breathability,1,No
+2024/02/27 7:39:41 PM EST,praikshitajain@gmail.com,Female,5.0,2,2,Traction and Grip,1,No
+2024/02/27 7:40:36 PM EST,pavithrakumaresan6@gmail.com,Female,5.0,1,1,Durability,1,No
+2024/02/27 9:28:10 PM EST,ruphaasrikp@gmail.com,Female,5.0,4,5,Style Versatility,2,No
+2024/02/27 9:37:19 PM EST,divinebrat@gmail.com,Male,5.0,3,4,Breathability,3,No
+2024/02/27 9:41:34 PM EST,kkaizad21@gmail.com,Male,5.0,2,4,Durability,3,No
+2024/02/27 10:07:36 PM EST,joel.dsouza2110@gmail.com,Male,5.0,4,4,Material,4,No
+2024/02/27 11:13:58 PM EST,vinayreddy3101@gmail.com,Male,5.0,3,3,Style Versatility,3,No
+2024/02/28 12:03:16 AM EST,vishruthi1301@gmail.com,Female,5.0,5,5,Style Versatility,4,No
+2024/02/28 4:15:39 AM EST,snigdhareddy815@gmail.com,Female,5.0,1,1,Durability,1,No
+2024/02/28 7:27:18 AM EST,gargisharma1208@gmail.com,Female,5.0,1,2,Durability,1,No
+2024/02/28 7:30:15 AM EST,aakashgangwar56@gmail.com,Male,5.0,1,1,Durability,1,No
+2024/02/28 7:33:50 AM EST,20.shruti.j@gmail.com,Female,5.0,1,2,Breathability,1,No
+2024/02/28 7:38:05 AM EST,devnsh2010@gmail.com,Male,5.0,1,1,Durability,1,No
+2024/02/28 8:29:19 AM EST,tamannasharma.2201@gmail.com,Female,5.0,1,1,Durability,1,No
+2024/02/28 8:33:50 AM EST,sharmabhavya0308@gmail.com,Male,5.0,4,5,Traction and Grip,4,No
+2024/02/28 8:38:05 AM EST,abch1@gmail.com,Male,5.0,3,3,Durability,2,No
+2024/02/28 8:39:10 AM EST,kangansingh123@gmail.com,Female,5.0,1,3,Style Versatility,1,No
+2024/02/28 8:41:50 AM EST,2606priyanshu.sharma@gmail.com,Male,5.0,1,1,Durability,1,No
+2024/02/28 8:53:20 AM EST,rishitnagpal1@gmail.com,Male,5.0,1,3,Material,1,No
+2024/02/28 8:56:22 AM EST,himanshupahwa2000@gmail.com,Male,5.0,2,3,Style Versatility,3,No
+2024/02/28 9:42:12 AM EST,paridhimalhotra7851@gmail.com,Female,5.0,3,4,Durability,3,No
+2024/02/28 9:43:14 AM EST,dekondalkar@gmail.com,Male,5.0,1,1,Durability,1,No
+2024/02/28 10:08:35 AM EST,devaansh2061@gmail.com,Male,5.0,3,3,Style Versatility,3,No
+2024/02/28 10:11:06 AM EST,keshugadodia@gmail.com,Male,5.0,3,2,Durability,2,No
+2024/02/28 10:21:33 AM EST,pratham9@bu.edu,Male,5.0,3,3,Breathability,3,No
+2024/02/28 12:41:27 PM EST,venkateshbijukumar@gmail.com,Male,5.0,3,4,Style Versatility,1,No
+2024/02/28 12:52:36 PM EST,shripadbijani@gmail.com,Male,5.0,2,4,Durability,2,No
+2024/02/28 12:58:10 PM EST,rajputgurpreet920@gmail.com,Male,5.0,3,3,Style Versatility,2,No
+2024/02/28 1:04:00 PM EST,lodha9krish@gmail.com,Female,5.0,1,1,Durability,1,No
+2024/02/28 1:13:43 PM EST,fakhruddinarjan6@gmail.com,Male,5.0,2,2,Durability,2,No
+2024/02/28 1:16:29 PM EST,nandinikale25@gmail.com,Female,5.0,4,4,Style Versatility,3,No
+2024/02/28 1:26:05 PM EST,ukroyur@bu.edu,Male,5.0,5,5,Breathability,5,No
+2024/02/28 1:40:27 PM EST,bhavyamittal190@gmail.com,Female,5.0,1,3,Style Versatility,1,No
+2024/02/28 1:49:54 PM EST,jenikashah07@gmail.com,Female,5.0,1,3,Style Versatility,1,No
+2024/02/28 2:26:52 PM EST,fsanjeliwala@gmail.com,Female,5.0,2,2,Breathability,1,No
+2024/02/28 5:51:07 PM EST,123@gmail.com,Female,5.0,2,3,Style Versatility,2,No
+2024/02/28 6:54:07 PM EST,mxzhao@bu.edu,Female,5.0,1,1,Breathability,1,No
+2024/02/28 6:54:46 PM EST,vkaza@bu.edu,Male,5.0,3,3,Durability,1,No
+2024/02/28 6:55:07 PM EST,yahuiwen@bu.edu,Female,5.0,2,2,Style Versatility,1,No
+2024/02/28 6:55:32 PM EST,yanqisu@bu.edu,Male,5.0,1,1,Style Versatility,1,No
+2024/02/28 6:57:39 PM EST,wym1205@bu.edu,Male,5.0,1,1,Style Versatility,1,No
+2024/02/28 7:17:25 PM EST,mitchwu@bu.edu,Male,5.0,1,1,Style Versatility,1,No
+2024/02/28 7:17:54 PM EST,tjessica@bu.edu,Female,5.0,1,4,Style Versatility,1,No
+2024/02/28 7:18:36 PM EST,priyac08@bu.edu,Female,5.0,5,5,Traction and Grip,5,No
+2024/02/28 7:22:41 PM EST,tyang34@bu.edu,Female,5.0,1,1,Style Versatility,1,No
+2024/02/28 7:42:40 PM EST,minxu99@bu.edu,Female,5.0,1,3,Style Versatility,1,No
+2024/02/28 8:18:57 PM EST,zywzyw@bu.edu,Male,5.0,1,1,Style Versatility,1,No
+2024/02/28 8:30:51 PM EST,olimpiab@bu.edu,Female,5.0,1,3,Durability,1,No
+2024/02/28 8:56:39 PM EST,shayanhk@bu.edu,Male,5.0,3,4,Style Versatility,1,No
+2024/02/28 10:04:59 PM EST,mahikabh@bu.edu,Female,5.0,3,5,Durability,2,No
+2024/02/28 10:52:04 PM EST,sahasra@bu.edu,Female,5.0,2,4,Style Versatility,2,No
+2024/02/28 11:03:31 PM EST,setushah@bu.edu,Male,5.0,1,5,Style Versatility,1,No
+2024/02/28 11:37:57 PM EST,prudhvir@bu.edu,Male,5.0,4,3,Traction and Grip,2,No
+2024/02/29 11:58:25 AM EST,tangyum@bu.edu,Male,5.0,1,3,Material,1,No
+2024/02/29 12:16:24 PM EST,pmpatel@bu.edu,Female,5.0,1,1,Traction and Grip,1,No
+2024/02/29 5:25:06 PM EST,ririsgs@bu.edu,Female,5.0,1,2,Durability,1,No
+2024/03/01 2:47:20 PM EST,ycheng6@bu.edu,Male,5.0,1,3,Style Versatility,1,No
